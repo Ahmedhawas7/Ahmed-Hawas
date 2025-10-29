@@ -61,11 +61,3 @@ To run this project locally:
 ## Deployment
 
 This project can be easily deployed using services like Vercel or Netlify, which offer seamless integration with GitHub repositories. Remember to configure your `REACT_APP_OPENAI_API_KEY` as an environment variable in your deployment settings.
-
-## Contribution
-
-(Optional: Add details on how others can contribute if you wish.)
-
-## License
-
-(Optional: Add your project license, e.g., MIT License)
